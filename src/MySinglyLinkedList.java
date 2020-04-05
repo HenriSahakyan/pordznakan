@@ -160,6 +160,7 @@ public class MySinglyLinkedList<E> {
 			}
 		list.head.getElement();
 		//hi man
+		//hi women
 
 
 	}
