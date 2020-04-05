@@ -88,7 +88,7 @@
       <workItem from="1585631349102" duration="16000" />
       <workItem from="1585631427828" duration="4959000" />
       <workItem from="1585726689454" duration="707000" />
-      <workItem from="1586122440789" duration="1032000" />
+      <workItem from="1586122440789" duration="1279000" />
     </task>
     <task id="LOCAL-00001" summary="APeroooooooooooo">
       <created>1586123294676</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586123455892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="APeroooooooooooo">
+      <created>1586123705372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586123705372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,10 +134,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583191479088" />
-    <state x="393" y="10" key="CommitChangelistDialog2" timestamp="1586123454856">
+    <state x="393" y="10" key="CommitChangelistDialog2" timestamp="1586123717340">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586123454856" />
+    <state x="393" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586123717340" />
     <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1586122778109">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -187,10 +194,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586122444721" />
-    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586123605362">
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586123721787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586123605362" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586123721787" />
     <state x="209" y="38" key="new project wizard" timestamp="1585734015429">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
