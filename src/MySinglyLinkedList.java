@@ -139,28 +139,28 @@ public class MySinglyLinkedList<E> {
          return false;
 	}
 
-	public static MySinglyLinkedList list_rev(MySinglyLinkedList list) {
-		if(list.head == null) {
-			return list;
-		}
-		if(list.head.getNext() == null) {
-			return list;
-		}
-        list.head=list.head.getNext();
-		MySinglyLinkedList newList = list_rev(list);
-
-		return newList;
-	}
-	public  static MySinglyLinkedList double_el(MySinglyLinkedList list){
-		if(list.head == null) {
-			return list;
-		}
-		if(list.head.getNext()==null){
-				return list;
-			}
-		list.head.getElement()=
-
-
-	}
-}
+//	public static MySinglyLinkedList list_rev(MySinglyLinkedList list) {
+//		if(list.head == null) {
+//			return list;
+//		}
+//		if(list.head.getNext() == null) {
+//			return list;
+//		}
+//        list.head=list.head.getNext();
+//		MySinglyLinkedList newList = list_rev(list);
+//
+//		return newList;
+//	}
+//	public  static MySinglyLinkedList double_el(MySinglyLinkedList list){
+//		if(list.head == null) {
+//			return list;
+//		}
+//		if(list.head.getNext()==null){
+//				return list;
+//			}
+//		list.head.getElement()=
+//
+//
+//	}
+//}
 
