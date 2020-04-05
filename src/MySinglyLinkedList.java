@@ -158,7 +158,8 @@ public class MySinglyLinkedList<E> {
 		if(list.head.getNext()==null){
 				return list;
 			}
-		//list.head.getElement()=
+		list.head.getElement();
+		//hi man
 
 
 	}
